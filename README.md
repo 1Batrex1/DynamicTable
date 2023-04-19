@@ -1,2 +1,2 @@
 # DynamicList
-Simple dynamic list write in JAVA
+Simple dynamic list written in JAVA
